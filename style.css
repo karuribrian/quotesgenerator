@@ -1,0 +1,11 @@
+.quote{
+    font-size: 28px;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+.main{
+    border:3px solid black;
+    border: 5px;
+    width:auto;
+     background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(203,96,179,1)), color-stop(50%, rgba(193,70,161,0.86)), color-stop(51%, rgba(168,0,119,0.85)), color-stop(100%, rgba(219,54,164,0.71)));
+}
